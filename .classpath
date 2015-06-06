@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/lecol_000/Desktop/LCBiblio.jar"/>
+	<classpathentry kind="lib" path="C:/jTDS/jtds-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/iText-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-chart-themes-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-core-renderer.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-expressions-0.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-exprfunctions-0.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-extensions-3.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-fonts-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-htmlcomponent-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-htmlcomponent-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-json.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/jasperreports-jtidy-r938.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/spring.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Jaspersoft/iReport-5.1.0/ireport/modules/ext/commons-vfs-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
